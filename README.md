@@ -22,6 +22,8 @@ Press **Q** anytime to close both windows.
 * 🎥 Real-time webcam tracking
 * 😝 Detects **tongue out**
 * 😴 Detects **eyes closed**
+* 🤔 Detects **Thinking Face**
+* 🙋 Detects **Point hand**
 * 🪟 Shows reaction GIFs in a separate window
 * ⚙️ Simple setup, no external AI API required
 
