@@ -49,7 +49,8 @@ Freak-Detector/
 ├── output/
 │
 ├── main.py
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
