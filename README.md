@@ -1,6 +1,6 @@
 # 😜 Freaky Detector
 
-**Freak Detector** is a fun real-time AI app that uses your webcam to detect when you **stick your tongue out** 😝 or **close your eyes** 😴 — and flashes matching GIFs or images in a **separate reaction window** as long as you maintain that expression.
+**Freaky Detector** is a fun real-time AI app that uses your webcam to detect when you **stick your tongue out** 😝 or **close your eyes** 😴 — and flashes matching GIFs or images in a **separate reaction window** as long as you maintain that expression.
 
 It’s powered by [MediaPipe Face Mesh](https://developers.google.com/mediapipe) for landmark detection and [OpenCV](https://opencv.org/) for video processing.
 
