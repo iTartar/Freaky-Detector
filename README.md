@@ -140,6 +140,8 @@ Replace the files in the **`assets/`** folder:
 | ----------- | ----------------- | ------------------- |
 | Tongue out  | `tongue.gif`      | Any funny/silly GIF |
 | Eyes closed | `closed_eyes.gif` | Sleepy or calm GIF  |
+| Raise hand  | `pointing.gif`    | Knowledge GIF       |
+| Think Face  | `thinking.gif`    | Any pose think GIF  |
 
 You can use `.jpg`, `.png`, or `.mp4` files too — just rename and adjust the code paths.
 
